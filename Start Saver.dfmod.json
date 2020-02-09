@@ -1,0 +1,14 @@
+{
+    "ModTitle": "Start Saver",
+    "ModVersion": "1",
+    "ModAuthor": "Ralzar",
+    "ContactInfo": "forums.dfworkshop.net",
+    "DFUnity_Version": "0.10.18",
+    "ModDescription": "Creates a save calles \"Start Save\" right after character creation is finished.",
+    "GUID": "9f950031-cb51-4597-8af8-ff7699c1402e",
+    "Files": [
+        "Assets/Game/Mods/StartSaver/StartSaver.cs"
+    ],
+    "Contributes": null,
+    "Dependencies": null
+}
